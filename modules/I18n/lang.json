@@ -4,160 +4,199 @@
     "I18n": {
         "language": {
             "en": "English",
+            "de": "Deutsch",
             "ml": "മലയാളം"
         },
         "chooseLanguage": {
             "en": "Choose a Language",
+            "de": "Sprache auswählen",
             "ml": "ഭാഷ തിരഞ്ഞെടുക്കുക"
         }
     },
     "AddFriend": {
         "addFriend": {
             "en": "Add friend",
+            "de": "Freund hinzufügen",
             "ml": "സുഹൃത്തിനെ ചേർക്കുക"
         },
         "copyToClipboard": {
             "en": "Copy to clipboard",
+            "de": "In die Zwischenablage kopieren",
             "ml": "ക്ലിപ്പ്ബോർഡിലേയ്ക്ക് കോപ്പി ചെയ്യുക"
         },
         "publicKey": {
             "en": "Public key (32 characters)",
+            "de": "Öffentlicher Schlüssel (32 Zeichen)",
             "ml": "പബ്ലിക് കീ (32 പ്രതീകങ്ങൾ)"
         },
         "add": {
             "en": "Add",
+            "de": "hinzufügen",
             "ml": "ചേർക്കുക"
         },
         "myCode": {
             "en": "My code",
+            "de": "Mein Code",
             "ml": "എന്റെ കോഡ്"
         },
         "theirCode": {
             "en": "Their code",
+            "de": "Ihr Code",
             "ml": "അവരുടെ കോഡ്"
         },
         "back": {
             "en": "Back",
+            "de": "Zurück",
             "ml": "ബാക്ക്"
         }
     },
     "Chat": {
         "at": {
             "en": "at",
+            "de": "um",
             "ml": "ചെയ്തത്"
         },
         "addFriend": {
             "en": "Add friend",
+            "de": "Freund hinzufügen",
             "ml": "സുഹൃത്തിനെ ചേർക്കുക"
         },
         "search": {
             "en": "Search",
+            "de": "Suchen",
             "ml": "തിരയുക"
         },
         "typeInYourMessage": {
             "en": "Type in you message here...",
+            "de": "Deine Nachricht hier eintippen...",
             "ml": "താങ്കളുടെ സന്ദേശം ഇവിടെ എഴുതുക..."
         }
     },
     "EditProfile": {
         "editProfile": {
             "en": "Edit profile",
+            "de": "Profil anpassen",
             "ml": "വ്യക്തിവിവരങ്ങൾ എഡിറ്റ് ചെയ്യുവാൻ"
         },
         "logoutConfirmation": {
             "en": "Logging out will delete all the data in your system. We recommend that you backup the same.",
+            "de": "Durch das Abmelden werden alle Daten in Ihrem System gelöscht. Wir empfehlen, einen backup zu kreieren.",
+            "comment": "I don't understand 'back up the same'. I've translated it to mean 'we recommend you do a backup'",
             "ml": "ലോഗ് ഔട്ട് ചെയ്താൽ നിങ്ങളുടെ സിസ്റ്റത്തിലെ എല്ലാ ഡാറ്റയും ഡിലീറ്റ് ചെയ്യപ്പെടും. ആയതിനാൽ ലോഗൗട്ട് ചെയ്യുന്നതിന് മുന്നോടിയായി ഇതെല്ലാം ബാക്കപ്പ് ചെയ്യാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു."
         },
         "privateKey": {
             "en": "Private key (32 characters)",
+            "de": "Privater Schlüssel (32 Zeichen)",
             "ml": "പ്രൈവറ്റ് കീ (32 പ്രതീകങ്ങൾ)"
         },
         "warningNotToShare": {
-            "en": "Do not share it with anyone",
+            "en": "Do not share it with anyone", 
+            "de": "Mit niemanden teilen",
+            "comment": "dont share what with? For the german, the context would be ideal",
             "ml": "യാതൊരു കാരണവശയാലും ഇത് മറ്റൊരാൾക്ക് പറഞ്ഞുകൊടുക്കരുത്"
         },
         "displayName": {
             "en": "Display name",
+            "de": "Anzeigename",
             "ml": "പ്രദർശന നാമം"
         },
         "aboutYou": {
             "en": "About you",
+            "de": "Über dich",
             "ml": "നിങ്ങളെ കുറിച്ച്"
         },
         "photo": {
             "en": "Photo",
+            "de": "Foto",
             "ml": "ഫോട്ടോ"
         },
         "applyEdit": {
             "en": "Apply edit",
+            "de": "Änderungen anwenden",
             "ml": "എഡിറ്റ് ചെയ്യുക"
         },
         "downloadProfile": {
             "en": "Download profile backup",
+            "de": "Profil backup herunterladen",
             "ml": "പ്രൊഫൈൽ ബാക്കപ്പ് ഡൗൺലോഡ് ചെയ്യുക"
         },
         "logout": {
             "en": "Logout",
+            "de": "ausloggen",
             "ml": "ലോഗ്ഔട്ട് ചെയ്യുക"
         },
         "back": {
             "en": "Back",
+            "de": "Zurück",
             "ml": "ബാക്ക്"
         }
     },
     "Login": {
         "privateKeyLength": {
             "en": "Private key has to be a hexadecimal value of size 32 characters.",
+            "de": "Privater Schlüssel muss aus 32 hexadezimalen Zeichen bestehen.",
             "ml": "പ്രൈവറ്റ് കീ കൃത്യം 32 പ്രതീകങ്ങളുള്ള ഹെക്സാഡെസിമൽ ആയിരിക്കണം."
         },
         "minimumCharacters": {
             "en": "Display name should have atleast 4 characters.",
+            "de": "Anzeigename muss mindestens 4 Zeichen enthalten",
             "ml": "പ്രദർശന നാമത്തിൽ കുറഞ്ഞത് 4 പ്രതീകമെങ്കിലുമുണ്ടായിരിക്കണം."
         },
         "privateKey": {
             "en": "Private key (32 characters)",
+            "de": "Privater Schlüssel (32 Zeichen)",
             "ml": "പ്രൈവറ്റ് കീ (32 പ്രതീകങ്ങൾ)"
         },
         "displayName": {
             "en": "Display name",
+            "de": "Anzeigename",
             "ml": "പ്രദർശന നാമം"
         },
         "aboutYou": {
             "en": "About you",
+            "de": "Über dich",
             "ml": "നിങ്ങളെ കുറിച്ച്"
         },
         "login": {
             "en": "Login",
+            "de": "Login",
             "ml": "ലോഗിൻ ചെയ്യുക"
         },
         "loginUsingBackup": {
             "en": "Login using profile backup",
+            "de": "Einloggen mit Profil backup",
             "ml": "പ്രൊഫൈൽ ബാക്കപ്പ് ഉപയോഗിച്ച് ലോഗിൻ ചെയ്യുക"
         }
     },
     "ViewProfile": {
         "viewProfile": {
             "en": "View profile",
+            "de": "Profil anzeigen",
             "ml": "വ്യക്തിവിവരങ്ങൾ"
         },
         "publicKey": {
             "en": "Public key",
+            "de": "Öffentlicher Schlüssel (32 Zeichen)",
             "ml": "പബ്ലിക് കീ"
         },
         "displayName": {
             "en": "Display name",
+            "de": "Anzeigename",
             "ml": "പ്രദർശന നാമം"
         },
         "aboutPerson": {
             "en": "About the person",
+            "de": "Über die Person",
             "ml": "വ്യക്തിയെക്കുറിച്ച്"
         },
         "photo": {
             "en": "Photo",
+            "de": "Foto",
             "ml": "ഫോട്ടോ"
         },
         "back": {
             "en": "Back",
+            "de": "Zurück",
             "ml": "ബാക്ക്"
         }
     }
